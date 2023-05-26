@@ -14,5 +14,8 @@
     "postcss": "^8.4.23",
     "terser": "^5.17.6",
     "vite": "^4.3.2"
+  },
+  "dependencies": {
+    "tinymce": "^6.4.2"
   }
 }
